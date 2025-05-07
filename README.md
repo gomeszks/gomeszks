@@ -7,5 +7,4 @@
 
 ![Luyza Gomes GitHub stats]!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomeszks&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomeszks&hide_progress=true&bg_color=00000000)
 
